@@ -1,0 +1,130 @@
+[
+    {
+        "domain": ".kurly.com",
+        "expiry": 1750000024,
+        "httpOnly": false,
+        "name": "_clsk",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "u0wxsl%7C1749913624178%7C3%7C1%7Cb.clarity.ms%2Fcollect"
+    },
+    {
+        "domain": ".kurly.com",
+        "expiry": 1750000023,
+        "httpOnly": false,
+        "name": "_ga_BJ5N3PD9QG",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "GS2.1.s1749913621$o1$g1$t1749913623$j58$l0$h0"
+    },
+    {
+        "domain": ".kurly.com",
+        "expiry": 1749920823,
+        "httpOnly": true,
+        "name": "krt",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "AU0XDdVzp4lO6JGq5XSTBgq3c77f16HlMJvOGduVH6_dSfgnw3o"
+    },
+    {
+        "domain": ".kurly.com",
+        "expiry": 1781449622,
+        "httpOnly": false,
+        "name": "amp_65bebb",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "OVzGFr1NOu6Y0iJ0I-APf9.M2VmMDA5ODktM2QzNy01MTMxLTg1NGYtYjAxNWMwY2EzZDI3..1itnfl848.1itnflmcm.2.8.a"
+    },
+    {
+        "domain": ".kurly.com",
+        "expiry": 1750000023,
+        "httpOnly": false,
+        "name": "_ga",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "GA1.1.603821780.1749913621"
+    },
+    {
+        "domain": ".kurly.com",
+        "httpOnly": false,
+        "name": "amplitudeBucket",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "%7B%22browse_id%22%3A%22wYJ6fFhNUrJD7xFowXeqi%22%2C%22screen_name%22%3A%22recommendation%22%2C%22previous_screen_name%22%3A%22login%22%2C%22browse_screen_name%22%3A%22recommendation%22%2C%22browse_tab_name%22%3A%22home%22%2C%22event_name%22%3A%22login_success%22%2C%22browse_site_name%22%3A%22market%22%2C%22browse_section_id%22%3Anull%2C%22sign_up_source_screen_name%22%3A%22recommendation%22%2C%22is_release_build%22%3Atrue%2C%22webview_referrer_event%22%3Anull%7D"
+    },
+    {
+        "domain": ".kurly.com",
+        "expiry": 1750000021,
+        "httpOnly": false,
+        "name": "_gcl_au",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1.1.1454252236.1749913621"
+    },
+    {
+        "domain": ".kurly.com",
+        "httpOnly": false,
+        "name": "PHPSESSID",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "q9qbk4g8eq8g5jgtaq84ipefvsl96kgof336g2j201geg1m9j3j1"
+    },
+    {
+        "domain": ".kurly.com",
+        "expiry": 1757689623,
+        "httpOnly": false,
+        "name": "_fbp",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "fb.1.1749913608882.405084439541567237"
+    },
+    {
+        "domain": ".kurly.com",
+        "expiry": 1749917223,
+        "httpOnly": true,
+        "name": "ksi",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "AU3hTvlfaXBGAYWQu0a-9sQ_AAABl28xvzU"
+    },
+    {
+        "domain": ".kurly.com",
+        "expiry": 1784473623,
+        "httpOnly": true,
+        "name": "kdi",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "7g1YS5uBTReHRF-7EZB16Q"
+    },
+    {
+        "domain": "www.kurly.com",
+        "expiry": 1752505622,
+        "httpOnly": false,
+        "name": "skipChangePassword",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "skipChangePassword"
+    },
+    {
+        "domain": ".kurly.com",
+        "expiry": 1781449608,
+        "httpOnly": false,
+        "name": "_clck",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "xg8spy%7C2%7Cfwr%7C0%7C1991"
+    }
+]
